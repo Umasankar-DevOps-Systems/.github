@@ -18,4 +18,4 @@ Our mission is to provide scalable, secure, and automated system architectures t
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-📫 **Connect with us:** [LinkedIn](Chinthaparthy-UmasankarReddy) | [Portfolio](YOUR_WEBSITE_HERE)
+📫 **Connect with us:** [LinkedIn](chinthaparthy-umasankarreddy) | [Portfolio](YOUR_WEBSITE_HERE)
